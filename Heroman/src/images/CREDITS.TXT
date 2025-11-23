@@ -1,0 +1,20 @@
+----------------------------------------
+
+Title:
+    Hero spritesheets (Ars Notoria)
+
+Author:
+    Balmer
+
+URL:
+    https://opengameart.org/content/hero-spritesheets-ars-notoria
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * assets.zip
+
+----------------------------------------
+
+
