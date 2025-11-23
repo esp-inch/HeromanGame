@@ -265,7 +265,6 @@ pio device monitor -b 115200
 - [Heropad/README.md](Heropad/README.md) - Complete controller documentation
 - [Heropad/JOYSTICK_WIRING.md](Heropad/JOYSTICK_WIRING.md) - ESP32-WROOM-32 wiring guide
 - [Heropad/JOYSTICK_WIRING_ESP32-S3.md](Heropad/JOYSTICK_WIRING_ESP32-S3.md) - ESP32-S3 wiring guide
-- [Heropad/HEROPAD_SCHEMATIC_ESP32-S3.md](Heropad/HEROPAD_SCHEMATIC_ESP32-S3.md) - Breadboard schematic
 
 ---
 
